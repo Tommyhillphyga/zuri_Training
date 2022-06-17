@@ -46,23 +46,23 @@ h1 {
     padding-top: 50px;
     padding-bottom: 50px;
     font-family: [Lexend Deca](https: //fonts.google.com/specimen/Lexend+Deca);
-    font-size: 30px;
-    font-weight: 400;
+            font-size: 40px;
+            font-weight: 400;
     }
 
-    button{
+    button {
         margin-top: 100px;
         padding-top: 10px;
         padding-bottom: 10px;
         padding-left: 20px;
-        padding-right: 20px; 
+        padding-right: 20px;
         border-color: hsl(0, 0%, 95%);
         border-radius: 5em;
         background-color: transparent;
         color: hsl(0, 0%, 95%);
     }
 
-    button:hover{
-        background-color: hsl(0, 0%, 95%) ;
+    button:hover {
+        background-color: hsl(0, 0%, 95%);
         color: brown;
     }
